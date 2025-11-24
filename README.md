@@ -11,7 +11,7 @@ This application includes the following games:
 3.  * Rock-Paper-Scissors*: Play against the computer with score tracking.
 4.  *Hangman*: Guess the hidden programming-related word before you run out of attempts.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 * *Python 3.x* installed on your machine.
 * No external libraries are required (uses the standard random module).
